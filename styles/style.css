@@ -111,3 +111,16 @@ footer {
     }
 
   }
+
+
+
+.animal {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.animal div {
+    padding: 2rem;
+}
+
