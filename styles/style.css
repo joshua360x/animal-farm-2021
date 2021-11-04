@@ -124,3 +124,9 @@ footer {
     padding: 2rem;
 }
 
+
+.animal img:hover {
+    cursor: pointer;
+    zoom: 120%;
+}
+
