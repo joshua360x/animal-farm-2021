@@ -54,3 +54,10 @@ document.addEventListener('keydown', (event) => {
     indicatorEl.textContent = 'You Clicked on the HORSE';
   }
 });
+
+
+// started function to play sound no matter the animal
+// function playSoundAnimal(soundEL, contentEl) {
+//   soundEL.play();
+//   contentEl.textContent = 'You Clicked on the DOG';
+// }
